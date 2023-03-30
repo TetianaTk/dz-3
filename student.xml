@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<student>
+  <firstname>Jane</firstname>
+  <lastname>Austen</lastname>
+  <dateofbirth>01.01.01</dateofbirth>
+  <group>IT-02</group>
+  <address>
+    <country>UA</country>
+    <zipcode>04001</zipcode>
+    <district></district>
+    <city>Kyiv</city>
+    <street>Nauki av. 10, 10</street>
+  </address>
+  <married>true</married>
+  <averagerating>4.9</averagerating>
+  <courses>
+    <course>relational DBs</course>
+    <course>OOP</course>
+    <course>Pilates</course>
+    <course>French</course>
+  </courses>
+  <certificate/>
+</student>

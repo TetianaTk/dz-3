@@ -1,0 +1,18 @@
+firstname: Jane
+lastname: Austen
+dateofbirth: 01.01.01
+group: IT-02
+address:
+  country: UA
+  zipcode: '04001'
+  district: ''
+  city: Kyiv
+  street: 'Nauki av. 10, 10'
+married: true
+averagerating: 4.9
+courses:
+  - relational DBs
+  - OOP
+  - Pilates
+  - French
+certificate: null
